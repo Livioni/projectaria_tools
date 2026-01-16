@@ -7,3 +7,7 @@ projectaria_tools_dev.egg-info/**
 wheels/**
 **/__pycache__/
 **.DS_Store
+
+projectaria_tools_adt_data/
+ADT_download_urls.json
+test
